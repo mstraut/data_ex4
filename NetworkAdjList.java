@@ -6,7 +6,6 @@ import java.io.FileReader;
 import java.util.Iterator;
 import java.util.LinkedList;
 
-
 public class NetworkAdjList {
 	// variables
 	private static int max_num_vertices = 7960;
